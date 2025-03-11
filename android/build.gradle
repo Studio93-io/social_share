@@ -25,7 +25,7 @@ apply plugin: 'kotlin-android'
 
 android {
     compileSdkVersion 34 // Güncellendi
-    namespace = "com.shekarmudaliyar.social_share"
+    namespace = "io.studio93.social_share"
 
     sourceSets {
         main.java.srcDirs += 'src/main/kotlin'
