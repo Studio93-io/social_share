@@ -24,7 +24,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    compileSdkVersion 34 // Güncellendi
+    compileSdkVersion 35 // Güncellendi
     namespace = "com.shekarmudaliyar.social_share"
 
     sourceSets {
@@ -33,7 +33,7 @@ android {
 
     defaultConfig {
         minSdkVersion 21
-        targetSdkVersion 34 // Güncellendi
+        targetSdkVersion 35 // Güncellendi
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
