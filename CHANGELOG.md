@@ -1,3 +1,9 @@
+## Unreleased
+
+- iOS: Swift Package Manager support (CocoaPods still supported)
+- iOS: minimum deployment target raised to 13.0
+- iOS: allow arm64 simulator builds (previously restricted to x86_64)
+
 ## 2.3.1
 
 ### Changes for the new version is done by [dpacchi](https://github.com/dpacchi) 🙌🙌
